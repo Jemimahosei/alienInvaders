@@ -11,7 +11,7 @@ Key elements of the project included:
 - Utilizing a reusable code structure with helper functions and well-defined classes, leading to over 500 lines of maintainable code.
 - Gaining hands-on experience in developing an interactive application and managing an open-ended project from start to finish.
 
-[![video demonstrating AlienInvaders](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://github.com/user-attachments/assets/b2dcab39-a635-40ba-91b1-77b28d42d8c4)
+[![video demonstrating AlienInvaders](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://github.com/user-attachments/assets/b8b1c090-45f5-41cb-a5c6-072d62700b16)
 ## Game Assignment Context
 
 The final project in CS 1110 is always focused on game development, consolidating everything we have learned into one cohesive task. The assignment this year was to create a clone of Space Invaders, a well-known arcade game. The project scope was open-ended, allowing for creativity in adding features beyond the basic gameplay.
